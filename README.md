@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. Welcome to my Profile! 👋
 
 <!--
 **PLHB1712289/PLHB1712289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Nice to meet you! Thanks for visiting my profile.
+I'm a student at the HCM City Science of University and my major is software engineering.
+Now i'm very interested in NodeJS and Javasciprt. Some of my recent small projects such as scraping website, student management and currently some project are about ReacJS + Redux.
