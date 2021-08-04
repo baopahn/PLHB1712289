@@ -19,4 +19,4 @@ Nice to meet you! Thanks for visiting my profile.
 I'm a student at the HCM City Science of University and my major is software engineering.
 Now i'm very interested in NodeJS and Javasciprt. Some of my recent small projects such as scraping website, student management and currently some project are about ReacJS + Redux.
 
-My CV: https://mycv.vn/view/d26b0198a8652e9b6852fac6f00fe8ed
+My CV: https://mycv.vn/view/731f84401ea42634d5e611fcba283403
